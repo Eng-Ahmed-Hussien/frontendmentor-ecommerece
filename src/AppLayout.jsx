@@ -15,7 +15,7 @@ function AppLayout() {
 
       <div className="text-center p-[1rem]">
     Challenge by <a className='text-orange' href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-    Coded by <a className='text-orange' href="https://github.com/Petersgodspower19">Peters Godspower</a>.
+    Coded by <a className='text-orange' href="https://github.com/Eng-Ahmed-Hussien">A7med Hussien</a>.
      </div>
     </div>
   )
